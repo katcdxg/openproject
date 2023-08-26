@@ -27,3 +27,8 @@ od obiegu dokuemntów po dane, dodatkowo na callbacks executory wykonawcze choci
 # privilages
 etc Object.assign levels up/down
 but arrys merge
+
+
+# old codes
+https://github.com/pawelworzala666
+https://github.com/danger1h12
