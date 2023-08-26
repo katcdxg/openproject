@@ -1,4 +1,4 @@
-jeatem Paweł Worzała z sucumin z PL
+jestem Paweł Worzała z sucumin z PL, a to mój pomysł sprzed lat - odzyskuje pamiec:
 
 w sumie to prosta sprawa dla mnie jak zabawa
 
