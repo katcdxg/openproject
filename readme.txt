@@ -23,3 +23,7 @@ dodatkowo listy ostatnich filtrów
 
 # zastosowanie
 od obiegu dokuemntów po dane, dodatkowo na callbacks executory wykonawcze chociazby w postaci edytorów
+
+# privilages
+etc Object.assign levels up/down
+but arrys merge
